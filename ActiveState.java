@@ -31,3 +31,4 @@ public class ActiveState implements AccountState {
         System.out.println("[STATE] Account is closed!\n");
     }
 }
+ 

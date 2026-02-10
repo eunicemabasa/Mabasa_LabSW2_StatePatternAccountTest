@@ -5,3 +5,4 @@ public interface AccountState {
     void suspend(Account account);
     void close(Account account);
 }
+ 
